@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+Windows Command-line functions:
+- [extra-cd](https://cmdf.github.io/extra-cd)
+- [extra-bel](https://cmdf.github.io/extra-bel)
+- [extra-adb](https://cmdf.github.io/extra-adb)
+- [extra-sleep](https://cmdf.github.io/extra-sleep)
+- [extra-echo](https://cmdf.github.io/extra-echo)
+- [extra-tee](https://cmdf.github.io/extra-tee)
+- [extra-clear](https://cmdf.github.io/extra-clear)
+- [extra-char](https://cmdf.github.io/extra-char)
+- [extra-ansi](https://cmdf.github.io/extra-ansi)
+- [extra-sound](https://cmdf.github.io/extra-sound)
+- [extra-list](https://cmdf.github.io/extra-list)
+- [extra-blink](https://cmdf.github.io/extra-blink)
+- [extra-hash](https://cmdf.github.io/extra-hash)
+- [extra-wav](https://cmdf.github.io/extra-wav)
+- [extra-brightness](https://cmdf.github.io/extra-brightness)
+- [extra-env](https://cmdf.github.io/extra-env)
+- [extra-locate](https://cmdf.github.io/extra-locate)
+- [extra-color](https://cmdf.github.io/extra-color)
+- [extra-shortcut](https://cmdf.github.io/extra-shortcut)
+- [extra-string](https://cmdf.github.io/extra-string)
+- [extra-jscript](https://cmdf.github.io/extra-jscript)
+- [extra-gamma](https://cmdf.github.io/extra-gamma)
+- [extra-cs](https://cmdf.github.io/extra-cs)
+- [extra-wordcount](https://cmdf.github.io/extra-wordcount)
+- [way2sms](https://cmdf.github.io/way2sms)
 
-You can use the [editor on GitHub](https://github.com/cmdf/cmdf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmdf/cmdf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Merferry](https://i.imgur.com/lIzbtsM.jpg)](https://merferry.github.io)
